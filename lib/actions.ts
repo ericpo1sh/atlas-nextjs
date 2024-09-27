@@ -42,3 +42,4 @@ export async function addVote(data: FormData) {
     throw new Error("Failed to add vote.");
   }
 }
+// r
